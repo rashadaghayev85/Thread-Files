@@ -1,0 +1,14 @@
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\ConsoleAppp\ConsoleAppp\bin\Debug\net6.0\ConsoleAppp.exe
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\ConsoleAppp\ConsoleAppp\bin\Debug\net6.0\ConsoleAppp.deps.json
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\ConsoleAppp\ConsoleAppp\bin\Debug\net6.0\ConsoleAppp.runtimeconfig.json
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\ConsoleAppp\ConsoleAppp\bin\Debug\net6.0\ConsoleAppp.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\ConsoleAppp\ConsoleAppp\bin\Debug\net6.0\ConsoleAppp.pdb
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\ConsoleAppp\ConsoleAppp\obj\Debug\net6.0\ConsoleAppp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\ConsoleAppp\ConsoleAppp\obj\Debug\net6.0\ConsoleAppp.AssemblyInfoInputs.cache
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\ConsoleAppp\ConsoleAppp\obj\Debug\net6.0\ConsoleAppp.AssemblyInfo.cs
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\ConsoleAppp\ConsoleAppp\obj\Debug\net6.0\ConsoleAppp.csproj.CoreCompileInputs.cache
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\ConsoleAppp\ConsoleAppp\obj\Debug\net6.0\ConsoleAppp.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\ConsoleAppp\ConsoleAppp\obj\Debug\net6.0\refint\ConsoleAppp.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\ConsoleAppp\ConsoleAppp\obj\Debug\net6.0\ConsoleAppp.pdb
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\ConsoleAppp\ConsoleAppp\obj\Debug\net6.0\ConsoleAppp.genruntimeconfig.cache
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\ConsoleAppp\ConsoleAppp\obj\Debug\net6.0\ref\ConsoleAppp.dll
